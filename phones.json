@@ -1,0 +1,92 @@
+[
+	{
+		"Brand": "Google",
+		"Model": "Pixel 7a 5G",
+		"Origin": "America",
+		"Released": "May 2023",
+		"Processor": "Google Tensor G2 GS201 S5P9855",
+		"Display": "6.1 inch",
+		"Memory": "8 GB",
+		"Battery": "4385 mAh"
+	},
+	{
+		"Brand": "Samsung",
+		"Model": "S23 Ultra 5G",
+		"Origin": "Korea",
+		"Released": "February 2023",
+		"Processor": "Qualcomm Snapdragon 8 Gen 2",
+		"Display": "6.8 inch",
+		"Memory": "12 GB",
+		"Battery": "5000 mAh"
+	},
+	{
+		"Brand": "Samsung",
+		"Model": "S23 5G",
+		"Origin": "Korea",
+		"Released": "February 2023",
+		"Processor": "Qualcomm Snapdragon 8 Gen 2",
+		"Display": "6.1 inch",
+		"Memory": "8 GB",
+		"Battery": "3900 mAh"
+	},
+	{
+		"Brand": "Apple",
+		"Model": "Iphone 14 Pro Max 5G",
+		"Origin": "America",
+		"Released": "September 2022",
+		"Processor": "Apple A16 Bionic APL1010",
+		"Display": "6.7 inch",
+		"Memory": "6 GB",
+		"Battery": "4323 mAh"
+	},
+	{
+		"Brand": "Samsung",
+		"Model": "Galaxy A54 5G",
+		"Origin": "Korea",
+		"Released": "May 2023",
+		"Processor": "Samsung Exynos 1380 5G S5E8835",
+		"Display": "6.4 inch",
+		"Memory": "8 GB",
+		"Battery": "5000 mAh"
+	},
+	{
+		"Brand": "Sony",
+		"Model": "Xperia 5 IV 5G",
+		"Origin": "Japan",
+		"Released": "October 2022",
+		"Processor": "Qualcomm Adreno 730",
+		"Display": "6.1 inch",
+		"Memory": "8 GB",
+		"Battery": "5000 mAh"
+	},
+	{
+		"Brand": "Motorola",
+		"Model": "Moto E22 2022",
+		"Origin": "China",
+		"Released": "October 2022",
+		"Processor": "MediaTek Helio G37 MT6765H",
+		"Display": "6.5 inch",
+		"Memory": "3 GB",
+		"Battery": "4020 mAh"
+	},
+	{
+		"Brand": "Xiaomi",
+		"Model": "Redmi 12C Premium Edition",
+		"Origin": "China",
+		"Released": "January 2023",
+		"Processor": "MediaTek Helio G85 MT6769Z",
+		"Display": "6.5 inch",
+		"Memory": "4 GB",
+		"Battery": "5000 mAh"
+	},
+	{
+		"Brand": "OnePlus",
+		"Model": "Race Pro 5G Top Edition",
+		"Origin": "China",
+		"Released": "August 2022",
+		"Processor": "Qualcomm Snapdragon 8+ Gen 1",
+		"Display": "6.7 inch",
+		"Memory": "16 GB",
+		"Battery": "4800 mAh"
+	}
+]
